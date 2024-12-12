@@ -1,4 +1,5 @@
 ./src/config/key.json
+package-lock.json
 
 # IDEs
 .idea
